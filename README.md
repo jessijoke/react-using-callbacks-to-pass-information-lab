@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Practice using state, props, and events
+- Practice using state, props, and events/
 - Practice using callbacks to effect change up and down the component tree
 
 ## Introduction
